@@ -32,3 +32,43 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# === Eclipse ===
+.project
+.classpath
+.settings/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# === IntelliJ / Android Studio ===
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+build/
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# === OS / System Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+
+# === Gradle (if used) ===
+.gradle/
+*/build/
+local.properties
+
+# === Backup files ===
+*~
