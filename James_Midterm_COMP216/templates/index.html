@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask API Fetcher</title>
+</head>
+<body>
+    <h1>Enter a number (1-200) to fetch a title:</h1>
+    <form method="post">
+        <input type="number" name="todo_id" required min="1" max="200">
+        <button type="submit">Fetch Data</button>
+    </form>
+
+    {% if result %}
+        <p><strong>Result:</strong> {{ result }}</p>
+    {% endif %}
+    
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+</body>
+</html>
