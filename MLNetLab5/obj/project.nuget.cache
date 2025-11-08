@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ds6ofJ6s7+16Ad8NarFijRCAc/6zAoYxVvjTgpyCO06jC7sP4eMXO7vVk7A+dQ5upe/c+kv1/VqBsMJNNyLoUg==",
+  "success": true,
+  "projectFilePath": "/Users/james/MLNetLab5/MLNetLab5.csproj",
+  "expectedPackageFiles": [
+    "/Users/james/.nuget/packages/microsoft.ml/4.0.2/microsoft.ml.4.0.2.nupkg.sha512",
+    "/Users/james/.nuget/packages/microsoft.ml.cpumath/4.0.2/microsoft.ml.cpumath.4.0.2.nupkg.sha512",
+    "/Users/james/.nuget/packages/microsoft.ml.dataview/4.0.2/microsoft.ml.dataview.4.0.2.nupkg.sha512",
+    "/Users/james/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/james/.nuget/packages/system.codedom/8.0.0/system.codedom.8.0.0.nupkg.sha512",
+    "/Users/james/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/james/.nuget/packages/system.memory/4.6.0/system.memory.4.6.0.nupkg.sha512",
+    "/Users/james/.nuget/packages/system.numerics.tensors/8.0.0/system.numerics.tensors.8.0.0.nupkg.sha512",
+    "/Users/james/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "/Users/james/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
